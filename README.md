@@ -104,3 +104,9 @@ pip install --upgrade typer
 ```
 
 ---
+
+![image](https://github.com/user-attachments/assets/87a72f0c-2a74-448e-8621-21d58b35c27a)
+
+![image](https://github.com/user-attachments/assets/d2a5415b-ebe8-4461-9317-34f89e4752c2)
+
+
