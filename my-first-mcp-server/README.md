@@ -1,7 +1,7 @@
-First MCP server for a real-life use case**—an **HR leave management assistant**.
+**First MCP server for a real-life use case**—an **HR leave management assistant**.
 
 
-### **Overview:
+### Overview:
 * **Objective**: Build an **MCP server** that powers an **HR assistant chatbot** to manage employee leave (check balance, apply, view history).
 
 
